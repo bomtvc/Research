@@ -1,0 +1,39 @@
+slug: o-nhiem-khong-khi-va-nuoc-tphcm
+
+title: >-
+  Thực trạng ô nhiễm không khí và ô nhiễm nước tại Thành phố Hồ Chí Minh
+  và giải pháp
+
+central_question: >-
+  Ô nhiễm không khí và ô nhiễm nước tại TP. Hồ Chí Minh đang ở mức nào, do đâu,
+  gây hậu quả gì, và những giải pháp nào thực sự có căn cứ để giải quyết?
+
+geography: Thành phố Hồ Chí Minh, Việt Nam (có đối chiếu với các đô thị khác khi dữ liệu cho phép)
+time_range: Tập trung 2015–nay; dùng dữ liệu cũ hơn khi cần dựng xu hướng dài hạn
+audience: Giảng viên và sinh viên đại học; người làm chính sách môi trường cấp địa phương
+language: tiếng Việt
+target_words: 5000
+citation_style: APA rút gọn (Tên cơ quan/tác giả, Năm)
+citation_hint: Tên cơ quan/tác giả, Năm
+
+must_cover:
+  - Hiện trạng ô nhiễm không khí (bụi mịn PM2.5/PM10, NO2, SO2, CO, O3; chỉ số AQI; biến động theo mùa)
+  - Hiện trạng ô nhiễm nước mặt (kênh rạch nội đô, sông Sài Gòn, sông Đồng Nai) và nước thải
+  - Nguồn phát thải chính của từng loại ô nhiễm
+  - Hậu quả sức khoẻ, kinh tế và môi trường sinh thái
+  - Khung pháp lý và quy chuẩn kỹ thuật quốc gia đang áp dụng
+  - Các giải pháp đã và đang triển khai, kèm đánh giá hiệu quả thực tế
+  - Khuyến nghị có chủ thể thực hiện cụ thể
+
+constraints:
+  - Mọi số liệu phải truy được về nguồn công khai, có năm và đơn vị rõ ràng
+  - Ưu tiên số liệu quan trắc và báo cáo của cơ quan quản lý hơn tin báo chí
+  - Nêu rõ mâu thuẫn giữa các nguồn thay vì chọn con số có lợi
+  - Không đưa giải pháp chung chung không gắn với nguyên nhân đã chứng minh
+
+# Ngưỡng và ngân sách cho các stage có tra web
+min_sources: 16
+min_accepted_sources: 10
+min_fact_checks: 14
+max_searches: 16
+max_fetches: 12
